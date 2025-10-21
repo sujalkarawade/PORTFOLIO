@@ -10,7 +10,7 @@ function Footer() {
         <div className="footer">
 
             <div className="footer-item">
-                <span className="gradient">Daniel Steele ©{currentYear} </span>
+                <span className="gradient">Sujal Karawade ©{currentYear} </span>
             </div>
 
             <div className="footer-item">
@@ -19,8 +19,8 @@ function Footer() {
 
             <div className="footer-item">
                 <div className="footer-socials">
-                    <span className="footer-icon"> <a href="https://www.linkedin.com/in/daniel-steele-b06443198"><IoLogoLinkedin style={{ fontSize: '30px', paddingLeft: '10px' }} /></a> </span>
-                    <span className="footer-icon">  <a href="https://github.com/DanielSteele1"> <LuGithub style={{ fontSize: '30px', paddingLeft: '10px' }} /> </a></span>
+                    <span className="footer-icon"> <a href="https://www.linkedin.com/in/sujal-karawade/"><IoLogoLinkedin style={{ fontSize: '30px', paddingLeft: '10px' }} /></a> </span>
+                    <span className="footer-icon">  <a href="https://github.com/sujalkarawade"> <LuGithub style={{ fontSize: '30px', paddingLeft: '10px' }} /> </a></span>
                 </div>
             </div>
         </div>

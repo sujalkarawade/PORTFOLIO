@@ -28,7 +28,7 @@ function AboutMe() {
                 <span className="section-heading">
 
                       <SplitText
-                        text="About Sujal Karawade"
+                        text="About Sujal"
                         className="gradient"
                         delay={100}
                         duration={0.6}
@@ -41,7 +41,7 @@ function AboutMe() {
                     />
                 </span>
                 <div className="About-image-container">
-                    <img className="About-img" src="public/Sanju Baba.jpg" />
+                    <img className="About-img" src="Sanju Baba.jpg" />
 
                 </div>
 
@@ -50,14 +50,14 @@ function AboutMe() {
                         <div className="status-icon">
                             <LuLaptop style={{ display: 'inline-flex', verticalAlign: 'middle', fontSize: '23px' }} />
                         </div>
-                        <div>Currently Working on: </div> <span className="gradient"> Orbit </span>
+                        <div>Working on : </div> <span className="gradient"> Prometheus </span>
                     </a>
 
                     <a className="About-status" href="#skills">
                         <div className="status-icon">
                             <LuGraduationCap style={{ display: 'inline-flex', verticalAlign: 'middle', fontSize: '23px' }} />
                         </div>
-                        <div>Currently learning: </div> <span className="gradient"> TailwindCSS </span>
+                        <div>Currently learning : </div> <span className="gradient"> AI / ML </span>
                     </a>
 
                     <motion.div
@@ -90,7 +90,7 @@ function AboutMe() {
 
                             </motion.div>
 
-                            <div>Current Music Obsession: </div> <span className="gradient"> Lo-Fi </span>
+                            <div>Music Obsession : </div> <span className="gradient"> Hip-Hop </span>
                         </div>
                     </motion.div>
 
