@@ -37,11 +37,11 @@ function App() {
   }, []);
 
   window.addEventListener("blur", () => {
-    document.title = "Come Back! - Daniel Steele - React Developer";
+    document.title = "Come Back! - Sujal Karawade - Developer";
   });
 
   window.addEventListener("focus", () => {
-    document.title = "Daniel Steele - React Developer";
+    document.title = "Sujal Karawade - Developer";
   });
 
   const handleDownloadAndView = (event: React.MouseEvent<HTMLButtonElement | HTMLAnchorElement>) => {
