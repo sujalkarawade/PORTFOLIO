@@ -23,10 +23,12 @@ function AboutMe() {
             viewport={{ once: true, amount: 0.2 }}
         >
 
-            <div className="about" id="about">
+            <div className="about" id="about" style={{ marginTop: "20px", padding: "0px" }}>
+            
                 <span className="section-heading">
+
                       <SplitText
-                        text="About Daniel Steele"
+                        text="About Sujal Karawade"
                         className="gradient"
                         delay={100}
                         duration={0.6}
@@ -39,7 +41,7 @@ function AboutMe() {
                     />
                 </span>
                 <div className="About-image-container">
-                    <img className="About-img" src="Website_Pic.JPG" />
+                    <img className="About-img" src="public/Sanju Baba.jpg" />
 
                 </div>
 

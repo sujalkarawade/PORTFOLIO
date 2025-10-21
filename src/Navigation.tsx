@@ -40,7 +40,7 @@ function Navigation({ handleDownloadAndView }: props) {
             </div>
 
             <div className="nav-item">
-                <div className="nav-menu">
+                <div className="nav-menu" style={{ gap: "40px" }}>
 
                     <span className="nav-title">
                         <a href="#top">
